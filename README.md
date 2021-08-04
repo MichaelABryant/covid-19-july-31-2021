@@ -1,9 +1,9 @@
 # COVID19-EDA
 
 
-[<img src="COVID19-World-Summary.png">](https://public.tableau.com/app/profile/michael.bryant5195)
+[<img src="COVID19-World-Summary.png">](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19WorldSummaryJuly312021/Dashboard1)
 
-<img src="COVID-19-US-Summary.png">
+[<img src="COVID-19-US-Summary.png">](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19USSummaryJuly312021/Dashboard1)
 
 [Tableau profile](https://public.tableau.com/app/profile/michael.bryant5195)
 
