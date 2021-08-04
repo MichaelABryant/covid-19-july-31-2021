@@ -2,9 +2,7 @@
 
 <img src="COVID19-World-Summary.png">
 
-https://github.com/MichaelBryantDS/COVID19-EDA/blob/main/COVID19-World-Summary.png
-
-<img src="covid19-us-summary.png">
+<img src="COVID19-US-Summary.png">
 
 ## Resources
 
