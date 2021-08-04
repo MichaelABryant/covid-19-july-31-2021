@@ -1,8 +1,8 @@
 # COVID19-EDA
 
-<img src="Images/covid19-world-summary.png">
+<img src="covid19-world-summary.png">
 
-<img src="Images/covid19-us-summary.png">
+<img src="covid19-us-summary.png">
 
 ## Resources
 
