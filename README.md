@@ -13,7 +13,7 @@ The dataset was gathered from [Our World in Data](https://ourworldindata.org/cor
 
 ## COVID19_Queries.sql
 
-This file contains the 27 queries I performed in SQL Server on the dataset. Seven views were created to aid in creating the data tables used in Tableau.
+This file contains the 27 queries I performed in Microsoft SQL Server on the dataset. Seven views were created to aid in creating the data tables used in Tableau.
 
 ## Results and Application
 
