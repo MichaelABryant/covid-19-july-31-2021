@@ -15,7 +15,7 @@ The dataset was gathered from [Our World in Data](https://ourworldindata.org/cor
 
 This file contains the 27 queries I performed in SQL Server on the dataset. Seven views were created to aid in creating the data tables used in Tableau.
 
-## Results
+## Results and Applications
 
 [<img src="Images/COVID19-World-Summary.png">](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19WorldSummaryJuly312021/Dashboard1)
 
