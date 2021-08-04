@@ -4,6 +4,8 @@
 
 <img src="COVID-19-US-Summary.png">
 
+[Tableau profile](https://public.tableau.com/app/profile/michael.bryant5195)
+
 ## Resources
 
 1. Our World in Data. Statistics and Research: Coronavirus (COVID-19) Deaths. https://ourworldindata.org/covid-deaths
