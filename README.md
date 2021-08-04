@@ -19,7 +19,7 @@ This file contains the 27 queries I performed in SQL Server on the dataset. Seve
 
 ### COVID-19 World Summary Dashboard
 
-Figure 1 shows the dashboard created in Tableau. For the interactive version, [click here](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19WorldSummaryJuly312021/Dashboard1).
+Figure 1 shows the dashboard for the COVID-19 World Summary created in Tableau. For the interactive version, [click here](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19WorldSummaryJuly312021/Dashboard1).
 
 <figure>
 <img src="Images/COVID19-World-Summary.png">
@@ -28,15 +28,16 @@ Figure 1 shows the dashboard created in Tableau. For the interactive version, [c
 
 ### COVID-19 US Summary Dashboard
 
-Figure 2 shows the dashboard created in Tableau. For the interactive version, [click here](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19USSummaryJuly312021/Dashboard1).
+Figure 2 shows the dashboard for the COVID-19 US Summary created in Tableau. For the interactive version, [click here](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19USSummaryJuly312021/Dashboard1).
 
 <figure>
 <img src="Images/COVID-19-US-Summary.png">
   <figcaption>Figure 2: COVID-19 US summary dashboard created in Tableau.</figcaption>
 </figure>
 
-### Applications
+### Application
 
+This project can help keep people informed about the current status of COVID-19. A website or app can be created as an interface. The query process and Tableau dashboard creation can be automated so that a user may select the region they are interested in and the variables they want to view.
 
 ## Resources
 
