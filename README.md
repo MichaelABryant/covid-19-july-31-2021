@@ -2,7 +2,7 @@
 
 This repository is for the analysis done on the Our World in Data: COVID-19 dataset. Below you will find an overview of the data, code, and results.
 
-## About the Dataset
+## Our World in Data Dataset
 
 The dataset was 
 
