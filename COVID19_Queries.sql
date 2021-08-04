@@ -4,43 +4,33 @@
 SELECT *
 FROM CovidCases
 
+
 -- Deaths information
 SELECT *
 FROM CovidDeaths
+
 
 -- Country, demographics information
 SELECT *
 FROM CovidDemo
 
+
 -- ICU and hospitalization information
 SELECT *
 FROM CovidMedical
+
 
 -- Testing information
 SELECT *
 FROM CovidTests
 
+
 -- Vaccination information
 SELECT *
 FROM CovidVacc
 
--- -- -- Ideas for visualizations:
 
--- -- Worldwide dashboard
--- Current number of cases, deaths, vaccinations, and percentage of each continent who has had covid for each continent (table)
--- New_cases_per_million for top 5 locations as a function of time (time-series graph)
--- Total_deaths_per_million for top 5 locations (bar graph)
--- Current reproduction rates for each country (map)
-
-
--- -- US dashboard
--- Current number of cases, deaths, vaccinations, and percentage of US who has had covid  (table)
--- US (number of people hospitalizated + as ICU patients) and number of people_vaccinated as a function of time (time-series graph)
--- Current positive_rate as a function of time (map)
--- Current People_vaccinated_per_hundred for Canada, US, and Mexico (bar graph)
-
-
--- -- Worldwide dashboard
+-- -- World dashboard
 
 -- Total population by country
 SELECT demo.location, MAX(CAST(demo.population AS BIGINT)) AS population
@@ -48,6 +38,7 @@ FROM COVID19_Project..CovidDemo demo
 WHERE demo.continent IS NOT NULL
 GROUP BY demo.location
 ORDER BY 2 desc
+
 
 -- Create view for query of total vaccinated by country
 CREATE VIEW [Country population] AS
@@ -57,14 +48,13 @@ WHERE demo.continent IS NOT NULL
 GROUP BY demo.location
 
 
-
-
 -- Total cases by country
 SELECT cases.location, MAX(CAST(cases.total_cases AS BIGINT)) AS total_cases
 FROM COVID19_Project..CovidCases cases
 WHERE cases.continent IS NOT NULL
 GROUP BY cases.location
 ORDER BY 2 desc
+
 
 -- Create view for query of total cases by country
 CREATE VIEW [Country total_cases] AS
@@ -74,15 +64,13 @@ WHERE cases.continent IS NOT NULL
 GROUP BY cases.location
 
 
-
-
-
 -- Total deaths by country
 SELECT deaths.location, MAX(CAST(deaths.total_deaths AS BIGINT)) AS total_deaths
 FROM COVID19_Project..CovidDeaths deaths
 WHERE deaths.continent IS NOT NULL
 GROUP BY deaths.location
 ORDER BY 2 desc
+
 
 -- Create view for query of total deaths by country
 CREATE VIEW [Country total_deaths] AS
@@ -92,15 +80,13 @@ WHERE deaths.continent IS NOT NULL
 GROUP BY deaths.location
 
 
-
-
-
 -- Total people vaccinated by country
 SELECT vacc.location, MAX(CAST(vacc.people_vaccinated AS BIGINT)) AS total_vaccinated
 FROM COVID19_Project..CovidVacc vacc
 WHERE vacc.continent IS NOT NULL
 GROUP BY vacc.location
 ORDER BY 2 desc
+
 
 -- Create view for query of total vaccinated by country
 CREATE VIEW [Country total_vaccinated] AS
@@ -110,23 +96,18 @@ WHERE vacc.continent IS NOT NULL
 GROUP BY vacc.location
 
 
-
-
-
 -- Country-continent key
 SELECT DISTINCT cases.location, cases.continent
 FROM COVID19_Project..CovidCases cases
 WHERE continent IS NOT NULL
 ORDER BY cases.location asc
 
+
 -- Create view for query of total cases by country
 CREATE VIEW [Country continent] AS
 SELECT DISTINCT cases.location, cases.continent
 FROM COVID19_Project..CovidCases cases
 WHERE continent IS NOT NULL
-
-
-
 
 
 -- Join two views for location, continent, total_cases table
@@ -148,6 +129,7 @@ JOIN [Country total_vaccinated]
 WHERE total_cases IS NOT NULL
 	AND total_deaths IS NOT NULL
 	AND total_vaccinated IS NOT NULL
+
 
 -- Total cases, deaths, and vaccinated people by continent (summary worldwide)
 SELECT [Country continent].continent,
@@ -171,8 +153,6 @@ GROUP BY [Country continent].continent
 ORDER BY continent asc
 
 
-
-
 -- Top current new_cases_per_million by country (where covid is increasing the most)
 SELECT cases.location, CONVERT(float,cases.new_cases_per_million) AS new_cases_per_million
 FROM COVID19_Project..CovidCases cases
@@ -181,16 +161,12 @@ WHERE cases.continent IS NOT NULL
 ORDER BY 2 desc
 
 
-
-
 -- Total_deaths_per_million by country (most deaths per capita)
 SELECT deaths.location, CONVERT(float,deaths.total_deaths_per_million) AS total_deaths_per_million
 FROM COVID19_Project..CovidDeaths deaths
 WHERE deaths.continent IS NOT NULL
 	AND deaths.date = '7/31/2021'
 ORDER BY 2 desc
-
-
 
 
 -- stringency index (measure of response indicators from 0 to 100 of the strictest sub-region of the country)
@@ -202,10 +178,8 @@ WHERE vacc.continent IS NOT NULL
 ORDER BY 2 desc
 
 
-
-
-
 -- -- US dashboard
+
 -- US population, cases, deaths, and vaccinated
 SELECT cases.date, cases.location, demo.population, cases.total_cases, deaths.total_deaths, vacc.people_vaccinated
 FROM COVID19_Project..CovidCases cases
