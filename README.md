@@ -30,5 +30,3 @@ This file contains the 27 queries I performed in SQL Server on the dataset. Seve
 5. [SQLShack](https://www.sqlshack.com/)
 6. [LearnSQL](https://www.LearnSQL.com/blog/)
 7. [GitHub | owid/covid-19-data: Dataset by Our World in Data.](https://github.com/owid/covid-19-data)
-
-<img src="Images/covid-banner.jpg">
