@@ -4,6 +4,8 @@ This repository is for the analysis done on the Our World in Data: COVID-19 data
 
 ## About the Dataset
 
+The dataset was 
+
 ## SQL Queries
 
 ## Results
@@ -14,8 +16,8 @@ This repository is for the analysis done on the Our World in Data: COVID-19 data
 
 ## Resources
 
-1. Our World in Data. Statistics and Research: Coronavirus Pandemic (COVID-19). https://ourworldindata.org/coronavirus
-2. YouTube. Alex The Analyst: Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4. https://www.youtube.com/watch?v=qfyynHBFOsM&t=3450s
-3. YouTube. Alex The Analyst: Data Analyst Portfolio Project | Tableau Visualization | Project 2/4. https://www.youtube.com/watch?v=QILNlRvJlfQ&t=2346s
-4. SQLShack. https://www.sqlshack.com/
-5. LearnSQL. LearnSQL.com/blog/
+1. [Our World in Data. Statistics and Research: Coronavirus Pandemic (COVID-19).](https://ourworldindata.org/coronavirus)
+2. [YouTube. Alex The Analyst: Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4.](https://www.youtube.com/watch?v=qfyynHBFOsM&t=)
+3. [YouTube. Alex The Analyst: Data Analyst Portfolio Project | Tableau Visualization | Project 2/4.](https://www.youtube.com/watch?v=QILNlRvJlfQ&t=)
+4. [SQLShack.](https://www.sqlshack.com/)
+5. [LearnSQL.](LearnSQL.com/blog/)
