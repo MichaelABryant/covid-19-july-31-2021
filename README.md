@@ -1,6 +1,8 @@
 # COVID19-EDA
 
-<img src="covid19-world-summary.png">
+<img src="main/COVID19-World-Summary.png">
+
+https://github.com/MichaelBryantDS/COVID19-EDA/blob/main/COVID19-World-Summary.png
 
 <img src="covid19-us-summary.png">
 
