@@ -17,10 +17,11 @@ This file contains the 27 queries I performed in SQL Server on the dataset. Seve
 
 ## Results and Application
 
+Figure 1 shows the dashboard created in Tableau. For the interactive version, [click here](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19WorldSummaryJuly312021/Dashboard1).
 
 <figure>
 <img src="Images/COVID19-World-Summary.png">
-  <figcaption>Figure 1: COVID-19 world summary dashboard created in [Tableau](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19WorldSummaryJuly312021/Dashboard1).</figcaption>
+  <figcaption>Figure 1: COVID-19 world summary dashboard created in Tableau.</figcaption>
 </figure>
 
 [<img src="Images/COVID-19-US-Summary.png">](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19USSummaryJuly312021/Dashboard1)
