@@ -1,8 +1,10 @@
 # Project 1: COVID-19 EDA (SQL and Tableau)
 
-This repository is for the analysis done on the Our World in Data: COVID-19 dataset. Below you will find an overview of the data and code files used.
+This repository is for the analysis done on the Our World in Data: COVID-19 dataset. Below you will find an overview of the data, code, and results.
 
 ## About the Dataset
+
+## SQL Queries
 
 ## Results
 
