@@ -6,6 +6,8 @@ This repository is for the analysis done on the Our World in Data: COVID-19 data
 
 The dataset was gathered from [Our World in Data](https://ourworldindata.org/coronavirus) and, at the time of collection, spanned from February 24, 2020 to July 31, 2021. The dataset contains 59 variables which are contained within six Microsoft Excel spreadsheets. There was a spreadsheet for each of the following: cases, deaths, testing, hospitalizations and ICU patients, vaccinations, and country demographics.
 
+## COVID19_Query.sql
+
 ## Results
 
 [<img src="COVID19-World-Summary.png">](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19WorldSummaryJuly312021/Dashboard1)
