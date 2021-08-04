@@ -27,6 +27,4 @@ This file contains the 27 queries I performed in SQL Server on the dataset. Seve
 2. [YouTube. Alex The Analyst: Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4](https://www.youtube.com/watch?v=qfyynHBFOsM)
 3. [YouTube. Alex The Analyst: Data Analyst Portfolio Project | Tableau Visualization | Project 2/4](https://www.youtube.com/watch?v=QILNlRvJlfQ)
 4. [City of Melbourne: Harbor City. COVID-19 Updates](https://www.melbourneflorida.org/about/covid-19)
-5. [SQLShack](https://www.sqlshack.com/)
-6. [LearnSQL](https://www.LearnSQL.com/blog/)
-7. [GitHub | owid/covid-19-data: Dataset by Our World in Data.](https://github.com/owid/covid-19-data)
+5. [GitHub | owid/covid-19-data: Dataset by Our World in Data.](https://github.com/owid/covid-19-data)
