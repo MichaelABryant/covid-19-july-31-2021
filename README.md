@@ -1,4 +1,4 @@
-<img src="Images/covid-banner.jpg">
+<img src="Images/covid-banner-resized.jpg">
 
 # Project 1: COVID-19 EDA (SQL and Tableau)
 
