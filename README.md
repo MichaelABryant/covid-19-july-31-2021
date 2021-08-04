@@ -13,7 +13,7 @@ The dataset was gathered from [Our World in Data](https://ourworldindata.org/cor
 
 ## COVID19_Queries.sql
 
-This file contains the 27 queries I performed in Microsoft SQL Server on the database which I created from the dataset. Seven views were created to aid in creating the data tables used in Tableau. After the tables were created, they were exported to Microsoft Excel files where the null values were imputed.
+This file contains the 27 queries I performed in Microsoft SQL Server on the database which I created from the dataset. Seven views were created to aid in creating the data tables used in Tableau. Prior to importing the tables to Tableau, they were first exported to Microsoft Excel files where the null values were imputed. 
 
 ## Results and Application
 
