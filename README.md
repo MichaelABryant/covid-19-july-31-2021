@@ -10,7 +10,7 @@ Variables: `continent`, `location`, `date`, `total_cases`, `new_cases`, `new_cas
 
 ## COVID19_Queries.sql
 
-This file contains the 27 queries performed in SQL Server on the dataset. Seven views were created to aid in creating the data tables used in Tableau.
+This file contains the 27 queries I performed in SQL Server on the dataset. Seven views were created to aid in creating the data tables used in Tableau.
 
 ## Results
 
