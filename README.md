@@ -15,7 +15,7 @@ The dataset was gathered from [Our World in Data](https://ourworldindata.org/cor
 
 This file contains the 27 queries I performed in Microsoft SQL Server on the database which I created from the dataset. Seven views were created to aid in creating the data tables used in Tableau. Prior to importing the tables to Tableau, they were first exported from Microsoft SQL Server to Microsoft Excel where the null values were imputed. 
 
-## Results and Application
+## Results and Applications
 
 ### COVID-19 World Summary Dashboard
 
@@ -35,7 +35,7 @@ Figure 2 shows the dashboard for the COVID-19 US Summary created in Tableau. For
   <figcaption>Figure 2: COVID-19 US summary dashboard created in Tableau.</figcaption>
 </figure>
 
-### Application
+### Applications
 
 This project can help keep people informed about the current status of COVID-19. A website or app can be created as an interface. The query process and Tableau dashboard creation can be automated so that a user may select the region they are interested in and the variables they want to view.
 
