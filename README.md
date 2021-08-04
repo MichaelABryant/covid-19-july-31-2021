@@ -1,5 +1,9 @@
 # COVID19-EDA
 
+<img src="Images/covid19-world-summary.png">
+
+<img src="Images/covid19-us-summary.png">
+
 ## Resources
 
 1. Our World in Data. Statistics and Research: Coronavirus (COVID-19) Deaths. https://ourworldindata.org/covid-deaths
