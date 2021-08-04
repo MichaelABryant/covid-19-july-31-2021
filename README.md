@@ -23,7 +23,7 @@ Figure 1 shows the dashboard for the COVID-19 World Summary created in Tableau. 
 
 <figure>
 <img src="Images/COVID19-World-Summary.png">
-  <figcaption>Figure 1: COVID-19 world summary dashboard created in Tableau.</figcaption>
+  <figcaption>Figure 1: COVID-19 World Summary dashboard created in Tableau.</figcaption>
 </figure>
 
 ### COVID-19 US Summary Dashboard
