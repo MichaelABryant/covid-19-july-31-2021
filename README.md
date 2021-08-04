@@ -20,4 +20,4 @@ The dataset was gathered from [Our World in Data](https://ourworldindata.org/cor
 2. [YouTube. Alex The Analyst: Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4.](https://www.youtube.com/watch?v=qfyynHBFOsM)
 3. [YouTube. Alex The Analyst: Data Analyst Portfolio Project | Tableau Visualization | Project 2/4.](https://www.youtube.com/watch?v=QILNlRvJlfQ)
 4. [SQLShack.](https://www.sqlshack.com/)
-5. [LearnSQL.](LearnSQL.com/blog/)
+5. [LearnSQL.](https://www.LearnSQL.com/blog/)
