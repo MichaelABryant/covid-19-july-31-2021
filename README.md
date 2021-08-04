@@ -1,8 +1,8 @@
+<img src="Images/covid-banner.jpg">
+
 # Project 1: COVID-19 EDA (SQL and Tableau)
 
 This repository is for the analysis done on the Our World in Data: COVID-19 dataset. Below you will find an overview of the data, code, and results. The goal of this project was to create two dashboards summarizing the status of COVID-19 using Tableau (where one dashboard is for the world and the other is for the US).
-
-<img src="Images/covid-banner.jpg">
 
 ## Coronavirus Dataset
 
@@ -30,3 +30,5 @@ This file contains the 27 queries I performed in SQL Server on the dataset. Seve
 5. [SQLShack](https://www.sqlshack.com/)
 6. [LearnSQL](https://www.LearnSQL.com/blog/)
 7. [GitHub | owid/covid-19-data: Dataset by Our World in Data.](https://github.com/owid/covid-19-data)
+
+<img src="Images/covid-banner.jpg">
