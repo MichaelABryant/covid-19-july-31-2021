@@ -2,7 +2,7 @@
 
 <img src="COVID19-World-Summary.png">
 
-<img src="COVID19-US-Summary.png">
+<img src="COVID-19-US-Summary.png">
 
 ## Resources
 
