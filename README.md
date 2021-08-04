@@ -2,6 +2,8 @@
 
 This repository is for the analysis done on the Our World in Data: COVID-19 dataset. Below you will find an overview of the data, code, and results. The goal of this project was to create two dashboards summarizing the status of COVID-19 using Tableau (where one dashboard is for the world and the other is for the US).
 
+<img src="Images/covid-banner.jpg">
+
 ## Coronavirus Dataset
 
 The dataset was gathered from [Our World in Data](https://ourworldindata.org/coronavirus) and, at the time of collection, spanned from February 24, 2020 to July 31, 2021. The dataset contained 59 variables for 218 countries which are contained within six Microsoft Excel spreadsheets. There was a spreadsheet for each of the following: cases, deaths, testing, hospitalizations and ICU patients, vaccinations, and country demographics.
