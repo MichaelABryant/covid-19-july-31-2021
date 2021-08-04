@@ -10,9 +10,9 @@ The dataset was gathered from [Our World in Data](https://ourworldindata.org/cor
 
 ## Results
 
-[<img src="COVID19-World-Summary.png">](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19WorldSummaryJuly312021/Dashboard1)
+[<img src="Images/COVID19-World-Summary.png">](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19WorldSummaryJuly312021/Dashboard1)
 
-[<img src="COVID-19-US-Summary.png">](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19USSummaryJuly312021/Dashboard1)
+[<img src="Images/COVID-19-US-Summary.png">](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19USSummaryJuly312021/Dashboard1)
 
 ## Resources
 
