@@ -24,7 +24,13 @@ Figure 1 shows the dashboard created in Tableau. For the interactive version, [c
   <figcaption>Figure 1: COVID-19 world summary dashboard created in Tableau.</figcaption>
 </figure>
 
-[<img src="Images/COVID-19-US-Summary.png">](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19USSummaryJuly312021/Dashboard1)
+Figure 2 shows the dashboard created in Tableau. For the interactive version, [click here](https://public.tableau.com/app/profile/michael.bryant5195/viz/COVID-19USSummaryJuly312021/Dashboard1).
+
+<figure>
+<img src="Images/COVID-19-US-Summary.png">
+  <figcaption>Figure 2: COVID-19 US summary dashboard created in Tableau.</figcaption>
+</figure>
+
 
 ## Resources
 
