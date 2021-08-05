@@ -48,3 +48,4 @@ Specifically, the visualizations can help businesses, schools, and politicians m
 3. [YouTube. Alex The Analyst: Data Analyst Portfolio Project | Tableau Visualization | Project 2/4](https://www.youtube.com/watch?v=QILNlRvJlfQ)
 4. [City of Melbourne: Harbor City. COVID-19 Updates](https://www.melbourneflorida.org/about/covid-19)
 5. [GitHub | owid/covid-19-data: Dataset by Our World in Data](https://github.com/owid/covid-19-data)
+6. [Markdown Guide: Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
