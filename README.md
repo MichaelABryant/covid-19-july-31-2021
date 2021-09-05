@@ -1,4 +1,4 @@
-# COVID-19 EDA
+# Project Overview for COVID-19 EDA
 
 This repository is for the analysis done on the Our World in Data: COVID-19 dataset. Below you will find an overview of the data, code, and results. The goal of this project was to create two dashboards summarizing the status of COVID-19 using Tableau (where one dashboard is for the world and the other is for the US).
 
